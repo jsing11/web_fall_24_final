@@ -1,0 +1,33 @@
+body {background-color: yellow}
+#eightball{
+    background-color:black;
+    width: 400px;
+    height:280px;
+    border-radius:100px;
+    margin: 30px;
+    padding-top: 60px;
+    vertical-align: center;
+    text-align: center;
+    font-size: 30px;
+}
+
+#triangle {
+    background-image: url(../images/triangle.jpg);
+    background-position: center;
+    margin:0px;
+    height: 250px;
+    width: 275px;
+    vertical-align:bottom;
+    cursor:pointer;
+}
+
+#message {
+    color: black;
+    vertical-align: bottom;
+    bottom: -40%;
+    position: relative;
+    width: 60px;
+    left:0px;
+    margin:0 auto;
+    cursor: pointer;
+}
